@@ -1,3 +1,9 @@
+![Discord handle](https://badgen.net/static/Discord/eferbarn/purple?icon=discord) ![Twitter handle](https://badgen.net/static/Twitter/eferbarn/blue?icon=twitter)
+
+```
+Discord Handle: eferbarn
+```
+
 # lottery.aleo
 
 ## Customizations
