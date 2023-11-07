@@ -1,4 +1,4 @@
-![Discord handle](https://badgen.net/static/Discord/eferbarn/purple?icon=discord) ![Twitter handle](https://badgen.net/static/Twitter/eferbarn/blue?icon=twitter)
+<a href="https://discord.com/users/884237515601621072" target="_blank">![Discord handle](https://badgen.net/static/Discord/eferbarn/purple?icon=discord)</a> <a href="https://x.com/eferbarn" target="_blank">![X (twitter) handle](https://badgen.net/static/Twitter/eferbarn/blue?icon=twitter)</a>
 
 ```
 Discord Handle: eferbarn
